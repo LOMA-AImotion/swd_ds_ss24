@@ -1,0 +1,6 @@
+Ludwig Müller,ludwig.mueller@example.com
+Heidi Schmidt,heidi.schmidt@example.com
+Friedrich Bauer,friedrich.bauer@example.com
+Annalena Weber,annalena.weber@example.com
+Josef Wagner,josef.wagner@example.com
+Theresa Fischer,theresa.fischer@example.com
